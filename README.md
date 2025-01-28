@@ -7,7 +7,18 @@ Right now he is stuck in an inifinite `while` loop waiting for treats and pets.
 
 ![Dog Training](dog-training.jpg)
 
-I am enthusiastic about taking on diverse challenges and am open to various work arrangements, including permanent roles, freelancing, and consulting opportunities.
+I am enthusiastic about taking on diverse challenges and am open to various work arrangements (remote, hybrid), including permanent roles, freelancing, and consulting opportunities.
+
+I currently live in Berlin, Germany. 
+
+You can find me on:
+
+[mariusavram.com (Website)](mariusavram.com)
+
+[Github (You are here)](https://github.com/mariusavram91)
+
+[Linkedin](https://ie.linkedin.com/in/mariusavram91)
+
 
 Have a nice day!
 
