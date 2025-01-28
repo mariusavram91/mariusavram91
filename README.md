@@ -5,7 +5,7 @@ I am a **Product-Oriented Software Developer** and tech enthusiast with over a d
 When I'm not climbing, I'm busy training my advanced **D.A.I.** (Dog Artificial Intelligence) model to become fluent in Python using reward based learning. BarkGPT with be available soon in Blockbuster stores near you.
 Right now he is stuck in an inifinite `while` loop waiting for treats and pets.
 
-![Dog Training](./dog-training.jpg)
+![Dog Training](dog-training.jpg)
 
 I am enthusiastic about taking on diverse challenges and am open to various work arrangements, including permanent roles, freelancing, and consulting opportunities.
 
