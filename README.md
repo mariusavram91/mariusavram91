@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Marius! 👋
 
-<!--
-**mariusavram91/mariusavram91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Product-Oriented Software Developer** and tech enthusiast with over a decade of experience (_Django, Rails, FastAPI, Vue, React, Typescript, Docker, and more_). I like building things and helping people. Currently, founder at Otterly (Project Management Platform for freelancers).
 
-Here are some ideas to get you started:
+When I'm not climbing, I'm busy training my advanced **D.A.I.** (Dog Artificial Intelligence) model to become fluent in Python using reward based learning. BarkGPT with be available soon in Blockbuster stores near you.
+Right now he is stuck in an inifinite `while` loop waiting for treats and pets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dog Training](./dog-training.jpg)
+
+I am enthusiastic about taking on diverse challenges and am open to various work arrangements, including permanent roles, freelancing, and consulting opportunities.
+
+Have a nice day!
+
+---
+
+ <img src="./logo.png" alt="logo" width="90" height="90">
