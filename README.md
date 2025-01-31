@@ -13,7 +13,7 @@ I currently live in Berlin, Germany.
 
 You can find me on:
 
-[mariusavram.com (Website)](mariusavram.com)
+[mariusavram.com (Website)](https://mariusavram.com)
 
 [Github (You are here)](https://github.com/mariusavram91)
 
